@@ -1,4 +1,4 @@
-# CPVID-19 Readiness
+# COVID-19 Readiness
 
 
 Datasets-Census, NYTimes, Institute for Health Metrics and Evaluation
